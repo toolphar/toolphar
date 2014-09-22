@@ -6,7 +6,7 @@
                 "version": "1.16.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -21,7 +21,7 @@
                 "version": "1.15.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -36,7 +36,7 @@
                 "version": "1.15.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -51,7 +51,7 @@
                 "version": "1.14.2",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -66,7 +66,7 @@
                 "version": "1.14.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -81,7 +81,7 @@
                 "version": "1.14.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -96,7 +96,7 @@
                 "version": "1.13.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -111,7 +111,7 @@
                 "version": "1.12.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -126,7 +126,7 @@
                 "version": "1.11.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -141,7 +141,7 @@
                 "version": "1.10.3",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -156,7 +156,7 @@
                 "version": "1.10.2",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"
@@ -171,7 +171,7 @@
                 "version": "1.10.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "0.1.0"
+                    "hco\/phar-installer-plugin": "*"
                 },
                 "extra": {
                     "bin-name": "phpab"

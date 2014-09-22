@@ -1,10 +1,10 @@
 {
     "includes": {
         "packages\/phpab.json": {
-            "sha1": "f49de38ef3d45550ff9ce8ea684ffc8e1bdcbba6"
+            "sha1": "faa0a953067dc402762485b23aecbff14b3241ec"
         },
         "packages\/phpunit.json": {
-            "sha1": "84625e6f66ad12555dcd08e8d558e183bcd7e7e2"
+            "sha1": "4c793cde2e7c5a325cbfe0ce4d42786e9cc35229"
         }
     }
 }
