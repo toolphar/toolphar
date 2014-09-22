@@ -7,7 +7,8 @@ ToolPhar is a new idea to install your development tools such as PHPUnit.
  You can just add a few lines to your composer.json, and composer will automatically download the phar to your *vendor/bin* folder.
 
 ## How?
-You just have to add the toolphar repository to your composer json,
+You just have to add the toolphar repository to your composer json and then you can easily install development tools such as PHPUnit.
+See the following composer.json and what it does below.
 {% highlight json %}
 {
     "name": "hco/composer-phar-installer-test",
@@ -42,7 +43,7 @@ PHPUnit 3.7.37 by Sebastian Bergmann.
 </div>
 
 
-
+I uploaded a simple sample project to https://github.com/hco/composer-phar-installer-test - you can easily try it out there.
 
 ## Why?
 
