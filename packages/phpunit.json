@@ -13,7 +13,7 @@
                     "type": "file"
                 },
                 "extra": {
-                    "bin-name": "phpunit.phar"
+                    "bin-name": "phpunit"
                 }
             },
             "3.7.37": {
@@ -28,7 +28,7 @@
                     "type": "file"
                 },
                 "extra": {
-                    "bin-name": "phpunit.phar"
+                    "bin-name": "phpunit"
                 }
             }
         }
