@@ -8,6 +8,9 @@
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
                 },
+                "extra": {
+                    "bin-name": "phpab"
+                },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.16.0.phar",
                     "type": "file"
@@ -19,6 +22,9 @@
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "extra": {
+                    "bin-name": "phpab"
                 },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.15.1.phar",
@@ -32,6 +38,9 @@
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
                 },
+                "extra": {
+                    "bin-name": "phpab"
+                },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.15.0.phar",
                     "type": "file"
@@ -43,6 +52,9 @@
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "extra": {
+                    "bin-name": "phpab"
                 },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.14.2.phar",
@@ -56,6 +68,9 @@
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
                 },
+                "extra": {
+                    "bin-name": "phpab"
+                },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.14.1.phar",
                     "type": "file"
@@ -67,6 +82,9 @@
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "extra": {
+                    "bin-name": "phpab"
                 },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.14.0.phar",
@@ -80,6 +98,9 @@
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
                 },
+                "extra": {
+                    "bin-name": "phpab"
+                },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.13.1.phar",
                     "type": "file"
@@ -91,6 +112,9 @@
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "extra": {
+                    "bin-name": "phpab"
                 },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.12.0.phar",
@@ -104,6 +128,9 @@
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
                 },
+                "extra": {
+                    "bin-name": "phpab"
+                },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.11.0.phar",
                     "type": "file"
@@ -115,6 +142,9 @@
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "extra": {
+                    "bin-name": "phpab"
                 },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.10.3.phar",
@@ -128,6 +158,9 @@
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
                 },
+                "extra": {
+                    "bin-name": "phpab"
+                },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.10.2.phar",
                     "type": "file"
@@ -139,6 +172,9 @@
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "extra": {
+                    "bin-name": "phpab"
                 },
                 "dist": {
                     "url": "http:\/\/phpab.net\/phpab-1.10.1.phar",
