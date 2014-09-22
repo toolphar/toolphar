@@ -1,4 +1,5 @@
 {
+    "packages": {
         "toolphar/phpunit": {
             "4.2.6": {
                 "name": "toolphar/phpunit",
@@ -26,3 +27,4 @@
             }
         }
     }
+}
