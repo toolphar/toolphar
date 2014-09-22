@@ -1,5 +1,8 @@
 {
     "includes": {
+        "packages\/pdepend.json": {
+            "sha1": "4d72bb290e92b5558e1a0caa725f2a5246a87ed7"
+        },
         "packages\/phpab.json": {
             "sha1": "faa0a953067dc402762485b23aecbff14b3241ec"
         },

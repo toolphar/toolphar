@@ -1,0 +1,81 @@
+{
+    "packages": {
+        "toolphar\/pdepend": {
+            "2.0.1": {
+                "name": "toolphar\/pdepend",
+                "version": "2.0.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "pdepend"
+                },
+                "dist": {
+                    "url": "http:\/\/static.pdepend.org\/php\/2.0.1\/pdepend.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.0": {
+                "name": "toolphar\/pdepend",
+                "version": "2.0.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "pdepend"
+                },
+                "dist": {
+                    "url": "http:\/\/static.pdepend.org\/php\/2.0.0\/pdepend.phar",
+                    "type": "file"
+                }
+            },
+            "1.1.1": {
+                "name": "toolphar\/pdepend",
+                "version": "1.1.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "pdepend"
+                },
+                "dist": {
+                    "url": "http:\/\/static.pdepend.org\/php\/1.1.1\/pdepend.phar",
+                    "type": "file"
+                }
+            },
+            "1.1.0": {
+                "name": "toolphar\/pdepend",
+                "version": "1.1.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "pdepend"
+                },
+                "dist": {
+                    "url": "http:\/\/static.pdepend.org\/php\/1.1.0\/pdepend.phar",
+                    "type": "file"
+                }
+            },
+            "1.0.7": {
+                "name": "toolphar\/pdepend",
+                "version": "1.0.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "pdepend"
+                },
+                "dist": {
+                    "url": "http:\/\/static.pdepend.org\/php\/1.0.7\/pdepend.phar",
+                    "type": "file"
+                }
+            }
+        }
+    }
+}
