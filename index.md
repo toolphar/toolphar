@@ -43,7 +43,7 @@ PHPUnit 3.7.37 by Sebastian Bergmann.
 </div>
 
 
-I uploaded a simple sample project to https://github.com/hco/composer-phar-installer-test - you can easily try it out there.
+I uploaded a simple sample project to [https://github.com/hco/composer-phar-installer-test](https://github.com/hco/composer-phar-installer-test) - you can easily try it out there.
 
 ## Why?
 
