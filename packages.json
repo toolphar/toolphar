@@ -1,4 +1,9 @@
 {
+    "includes": {
+        "packages/phpab.json": {
+            "sha1": "1b03b3b94830a5e8e86dab47a1d528a06b0167b6"
+        }
+    },
     "packages": {
         "toolphar/phpunit": {
             "4.2.6": {

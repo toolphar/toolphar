@@ -1,0 +1,150 @@
+{
+    "packages": {
+        "toolphar\/phpab": {
+            "1.16.0": {
+                "name": "toolphar\/phpab",
+                "version": "1.16.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.16.0.phar",
+                    "type": "file"
+                }
+            },
+            "1.15.1": {
+                "name": "toolphar\/phpab",
+                "version": "1.15.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.15.1.phar",
+                    "type": "file"
+                }
+            },
+            "1.15.0": {
+                "name": "toolphar\/phpab",
+                "version": "1.15.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.15.0.phar",
+                    "type": "file"
+                }
+            },
+            "1.14.2": {
+                "name": "toolphar\/phpab",
+                "version": "1.14.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.14.2.phar",
+                    "type": "file"
+                }
+            },
+            "1.14.1": {
+                "name": "toolphar\/phpab",
+                "version": "1.14.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.14.1.phar",
+                    "type": "file"
+                }
+            },
+            "1.14.0": {
+                "name": "toolphar\/phpab",
+                "version": "1.14.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.14.0.phar",
+                    "type": "file"
+                }
+            },
+            "1.13.1": {
+                "name": "toolphar\/phpab",
+                "version": "1.13.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.13.1.phar",
+                    "type": "file"
+                }
+            },
+            "1.12.0": {
+                "name": "toolphar\/phpab",
+                "version": "1.12.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.12.0.phar",
+                    "type": "file"
+                }
+            },
+            "1.11.0": {
+                "name": "toolphar\/phpab",
+                "version": "1.11.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.11.0.phar",
+                    "type": "file"
+                }
+            },
+            "1.10.3": {
+                "name": "toolphar\/phpab",
+                "version": "1.10.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.10.3.phar",
+                    "type": "file"
+                }
+            },
+            "1.10.2": {
+                "name": "toolphar\/phpab",
+                "version": "1.10.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.10.2.phar",
+                    "type": "file"
+                }
+            },
+            "1.10.1": {
+                "name": "toolphar\/phpab",
+                "version": "1.10.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "0.1.0"
+                },
+                "dist": {
+                    "url": "http:\/\/phpab.net\/phpab-1.10.1.phar",
+                    "type": "file"
+                }
+            }
+        }
+    }
+}
