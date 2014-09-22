@@ -26,7 +26,7 @@
                 "dist": {
                     "url": "https://phar.phpunit.de/phpunit-3.7.37.phar",
                     "type": "file"
-                }
+                },
                 "extra": {
                     "bin-name": "phpunit.phar"
                 }
