@@ -1,0 +1,186 @@
+{
+    "packages": {
+        "toolphar\/phploc": {
+            "2.0.6": {
+                "name": "toolphar\/phploc",
+                "version": "2.0.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-2.0.6.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.5": {
+                "name": "toolphar\/phploc",
+                "version": "2.0.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-2.0.5.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.4": {
+                "name": "toolphar\/phploc",
+                "version": "2.0.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-2.0.4.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.3": {
+                "name": "toolphar\/phploc",
+                "version": "2.0.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-2.0.3.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.2": {
+                "name": "toolphar\/phploc",
+                "version": "2.0.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-2.0.2.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.1": {
+                "name": "toolphar\/phploc",
+                "version": "2.0.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-2.0.1.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.0": {
+                "name": "toolphar\/phploc",
+                "version": "2.0.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-2.0.0.phar",
+                    "type": "file"
+                }
+            },
+            "1.7.4": {
+                "name": "toolphar\/phploc",
+                "version": "1.7.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-1.7.4.phar",
+                    "type": "file"
+                }
+            },
+            "1.7.3": {
+                "name": "toolphar\/phploc",
+                "version": "1.7.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-1.7.3.phar",
+                    "type": "file"
+                }
+            },
+            "1.7.2": {
+                "name": "toolphar\/phploc",
+                "version": "1.7.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-1.7.2.phar",
+                    "type": "file"
+                }
+            },
+            "1.7.1": {
+                "name": "toolphar\/phploc",
+                "version": "1.7.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-1.7.1.phar",
+                    "type": "file"
+                }
+            },
+            "1.7.0": {
+                "name": "toolphar\/phploc",
+                "version": "1.7.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phploc"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phploc-1.7.0.phar",
+                    "type": "file"
+                }
+            }
+        }
+    }
+}

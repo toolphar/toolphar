@@ -6,6 +6,12 @@
         "packages\/phpab.json": {
             "sha1": "faa0a953067dc402762485b23aecbff14b3241ec"
         },
+        "packages\/phpcpd.json": {
+            "sha1": "2bbae32447d77ff9d69a26b12a4dcb48b58e6c0a"
+        },
+        "packages\/phploc.json": {
+            "sha1": "feaf8e9b49bfe2956800356fbfe37e79633a6fe9"
+        },
         "packages\/phpmd.json": {
             "sha1": "753e60a3dcd4164220f3400e9903c40505a54a3e"
         },

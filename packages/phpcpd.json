@@ -1,0 +1,81 @@
+{
+    "packages": {
+        "toolphar\/phpcpd": {
+            "2.0.1": {
+                "name": "toolphar\/phpcpd",
+                "version": "2.0.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcpd"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpcpd-2.0.1.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.0": {
+                "name": "toolphar\/phpcpd",
+                "version": "2.0.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcpd"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpcpd-2.0.0.phar",
+                    "type": "file"
+                }
+            },
+            "1.4.3": {
+                "name": "toolphar\/phpcpd",
+                "version": "1.4.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcpd"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpcpd-1.4.3.phar",
+                    "type": "file"
+                }
+            },
+            "1.4.2": {
+                "name": "toolphar\/phpcpd",
+                "version": "1.4.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcpd"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpcpd-1.4.2.phar",
+                    "type": "file"
+                }
+            },
+            "1.4.0": {
+                "name": "toolphar\/phpcpd",
+                "version": "1.4.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcpd"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpcpd-1.4.0.phar",
+                    "type": "file"
+                }
+            }
+        }
+    }
+}
