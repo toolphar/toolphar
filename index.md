@@ -54,7 +54,7 @@ Well, currently there are several ways on how to install phpunit:
 1. include it as a regular (dev-)dependency in your composer.json
 1. use a tool like ant, phing, …
 
-At least from my points of view, none of these ways is perfect. I'm gonna explain why.
+At least from my point of view none of these ways is perfect. I'm gonna explain why.
 
 
 ### Downloading the phars manually
