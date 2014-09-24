@@ -103,6 +103,7 @@ I'll add more as soon as I get the feedback, that anyone else would like somethi
 - [phpab](http://phpab.net)
 - [PHPLOC](https://github.com/sebastianbergmann/phploc)
 - [PHPCPD](https://github.com/sebastianbergmann/phpcpd)
+- [PHP_CodeSniffer](https://github.com/squizlabs/PHP_CodeSniffer/)
 
 See http://toolphar.org/packages.json (and the linked .json files) for the whole list of versions.
 
