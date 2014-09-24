@@ -12,7 +12,7 @@
                     "bin-name": "phpcs"
                 },
                 "dist": {
-                    "url": "\/squizlabs\/PHP_CodeSniffer\/releases\/download\/2.0.0RC1\/phpcs.phar",
+                    "url": "https:\/\/github.com\/\/squizlabs\/PHP_CodeSniffer\/releases\/download\/2.0.0RC1\/phpcs.phar",
                     "type": "file"
                 }
             },
@@ -27,7 +27,7 @@
                     "bin-name": "phpcs"
                 },
                 "dist": {
-                    "url": "\/squizlabs\/PHP_CodeSniffer\/releases\/download\/2.0.0a2\/phpcs.phar",
+                    "url": "https:\/\/github.com\/\/squizlabs\/PHP_CodeSniffer\/releases\/download\/2.0.0a2\/phpcs.phar",
                     "type": "file"
                 }
             }
