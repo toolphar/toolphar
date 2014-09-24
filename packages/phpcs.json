@@ -1,0 +1,36 @@
+{
+    "packages": {
+        "toolphar\/phpcs": {
+            "2.0.0RC1": {
+                "name": "toolphar\/phpcs",
+                "version": "2.0.0RC1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcs"
+                },
+                "dist": {
+                    "url": "\/squizlabs\/PHP_CodeSniffer\/releases\/download\/2.0.0RC1\/phpcs.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.0a2": {
+                "name": "toolphar\/phpcs",
+                "version": "2.0.0a2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcs"
+                },
+                "dist": {
+                    "url": "\/squizlabs\/PHP_CodeSniffer\/releases\/download\/2.0.0a2\/phpcs.phar",
+                    "type": "file"
+                }
+            }
+        }
+    }
+}
