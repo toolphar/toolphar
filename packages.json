@@ -10,13 +10,13 @@
             "sha1": "2bbae32447d77ff9d69a26b12a4dcb48b58e6c0a"
         },
         "packages\/phpcs.json": {
-            "sha1": "20b16d89000ad90b3822626aa97de709626e9ec5"
+            "sha1": "482274501b4a279109dc4662b63885a76486514d"
         },
         "packages\/phploc.json": {
             "sha1": "feaf8e9b49bfe2956800356fbfe37e79633a6fe9"
         },
         "packages\/phpmd.json": {
-            "sha1": "753e60a3dcd4164220f3400e9903c40505a54a3e"
+            "sha1": "f0d77e4c71aa72b30100327e54f03cb284c4ec2f"
         },
         "packages\/phpunit.json": {
             "sha1": "4c793cde2e7c5a325cbfe0ce4d42786e9cc35229"

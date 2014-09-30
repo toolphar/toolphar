@@ -1,6 +1,36 @@
 {
     "packages": {
         "toolphar\/phpmd": {
+            "2.1.3": {
+                "name": "toolphar\/phpmd",
+                "version": "2.1.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpmd"
+                },
+                "dist": {
+                    "url": "http:\/\/static.phpmd.org\/php\/2.1.3\/phpmd.phar",
+                    "type": "file"
+                }
+            },
+            "2.1.2": {
+                "name": "toolphar\/phpmd",
+                "version": "2.1.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpmd"
+                },
+                "dist": {
+                    "url": "http:\/\/static.phpmd.org\/php\/2.1.2\/phpmd.phar",
+                    "type": "file"
+                }
+            },
             "2.1.1": {
                 "name": "toolphar\/phpmd",
                 "version": "2.1.1",
@@ -43,36 +73,6 @@
                 },
                 "dist": {
                     "url": "http:\/\/static.phpmd.org\/php\/2.0.0\/phpmd.phar",
-                    "type": "file"
-                }
-            },
-            "1.5.0": {
-                "name": "toolphar\/phpmd",
-                "version": "1.5.0",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "*"
-                },
-                "extra": {
-                    "bin-name": "phpmd"
-                },
-                "dist": {
-                    "url": "http:\/\/static.phpmd.org\/php\/1.5.0\/phpmd.phar",
-                    "type": "file"
-                }
-            },
-            "1.4.1": {
-                "name": "toolphar\/phpmd",
-                "version": "1.4.1",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "*"
-                },
-                "extra": {
-                    "bin-name": "phpmd"
-                },
-                "dist": {
-                    "url": "http:\/\/static.phpmd.org\/php\/1.4.1\/phpmd.phar",
                     "type": "file"
                 }
             },
