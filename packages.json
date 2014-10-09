@@ -1,10 +1,10 @@
 {
     "includes": {
         "packages\/pdepend.json": {
-            "sha1": "4d72bb290e92b5558e1a0caa725f2a5246a87ed7"
+            "sha1": "00f7fe963ea096692f6c913624bdba2b7f58fad4"
         },
         "packages\/phpab.json": {
-            "sha1": "faa0a953067dc402762485b23aecbff14b3241ec"
+            "sha1": "19ec7780d4a365b15506d1fef989109fc86631d0"
         },
         "packages\/phpcbf.json": {
             "sha1": "0927352b5af5430657d666ec4a40ebf6808b8437"
@@ -22,7 +22,7 @@
             "sha1": "f0d77e4c71aa72b30100327e54f03cb284c4ec2f"
         },
         "packages\/phpunit.json": {
-            "sha1": "61f4c22d913ba2d363b510177d6422eaf9ada894"
+            "sha1": "d57fa788fe23519abe53fadbaf70bb54278ac9ef"
         }
     }
 }
