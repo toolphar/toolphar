@@ -7,13 +7,13 @@
             "sha1": "19ec7780d4a365b15506d1fef989109fc86631d0"
         },
         "packages\/phpcbf.json": {
-            "sha1": "0927352b5af5430657d666ec4a40ebf6808b8437"
+            "sha1": "b18689f8dd5e1a7e784415f5e14747157c93974c"
         },
         "packages\/phpcpd.json": {
             "sha1": "2bbae32447d77ff9d69a26b12a4dcb48b58e6c0a"
         },
         "packages\/phpcs.json": {
-            "sha1": "482274501b4a279109dc4662b63885a76486514d"
+            "sha1": "9bed00faad4b8530bfb54ae8604d60460709ae5d"
         },
         "packages\/phploc.json": {
             "sha1": "feaf8e9b49bfe2956800356fbfe37e79633a6fe9"
@@ -22,7 +22,7 @@
             "sha1": "f0d77e4c71aa72b30100327e54f03cb284c4ec2f"
         },
         "packages\/phpunit.json": {
-            "sha1": "d57fa788fe23519abe53fadbaf70bb54278ac9ef"
+            "sha1": "8c17cafc3a0624ca38ff909a0c36fd486d4b5ab4"
         }
     }
 }

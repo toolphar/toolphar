@@ -1,6 +1,21 @@
 {
     "packages": {
         "toolphar\/phpcbf": {
+            "2.0.0RC3": {
+                "name": "toolphar\/phpcbf",
+                "version": "2.0.0RC3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcbf"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/\/squizlabs\/PHP_CodeSniffer\/releases\/download\/2.0.0RC3\/phpcbf.phar",
+                    "type": "file"
+                }
+            },
             "2.0.0RC2": {
                 "name": "toolphar\/phpcbf",
                 "version": "2.0.0RC2",
