@@ -18,6 +18,9 @@
         "packages\/phpcs.json": {
             "sha1": "addb7aa7600c68e2f331e4e7190c10583692eb6f"
         },
+        "packages\/phpdoc.json": {
+            "sha1": "a097e9ccc69e247e9d227314396ea4d8d7599ba7"
+        },
         "packages\/phploc.json": {
             "sha1": "feaf8e9b49bfe2956800356fbfe37e79633a6fe9"
         },
