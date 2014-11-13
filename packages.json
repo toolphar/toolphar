@@ -6,6 +6,9 @@
         "packages\/phpab.json": {
             "sha1": "19ec7780d4a365b15506d1fef989109fc86631d0"
         },
+        "packages\/phpcb.json": {
+            "sha1": "c98bb1d1c23e00f9b131ee7e8c57a6b123bd7804"
+        },
         "packages\/phpcbf.json": {
             "sha1": "cbbf758596760569f8cba5f60ba762bbcb7b1215"
         },
