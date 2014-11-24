@@ -1,6 +1,21 @@
 {
     "packages": {
         "toolphar\/phpunit": {
+            "4.3.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.3.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.5.phar",
+                    "type": "file"
+                }
+            },
             "4.3.4": {
                 "name": "toolphar\/phpunit",
                 "version": "4.3.4",

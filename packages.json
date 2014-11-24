@@ -1,19 +1,28 @@
 {
     "includes": {
+        "packages\/behat.json": {
+            "sha1": "c1f324e2e574e54bd03719e30cd79e6d7e928b8d"
+        },
         "packages\/pdepend.json": {
             "sha1": "00f7fe963ea096692f6c913624bdba2b7f58fad4"
         },
         "packages\/phpab.json": {
             "sha1": "19ec7780d4a365b15506d1fef989109fc86631d0"
         },
+        "packages\/phpcb.json": {
+            "sha1": "c98bb1d1c23e00f9b131ee7e8c57a6b123bd7804"
+        },
         "packages\/phpcbf.json": {
-            "sha1": "b18689f8dd5e1a7e784415f5e14747157c93974c"
+            "sha1": "cbbf758596760569f8cba5f60ba762bbcb7b1215"
         },
         "packages\/phpcpd.json": {
             "sha1": "2bbae32447d77ff9d69a26b12a4dcb48b58e6c0a"
         },
         "packages\/phpcs.json": {
-            "sha1": "9bed00faad4b8530bfb54ae8604d60460709ae5d"
+            "sha1": "addb7aa7600c68e2f331e4e7190c10583692eb6f"
+        },
+        "packages\/phpdoc.json": {
+            "sha1": "a097e9ccc69e247e9d227314396ea4d8d7599ba7"
         },
         "packages\/phploc.json": {
             "sha1": "feaf8e9b49bfe2956800356fbfe37e79633a6fe9"
@@ -22,7 +31,7 @@
             "sha1": "f0d77e4c71aa72b30100327e54f03cb284c4ec2f"
         },
         "packages\/phpunit.json": {
-            "sha1": "03d70a8cada633e0f4366f61dc58b8d9eab46f5d"
+            "sha1": "4b1bb47b412f83ae7e2fc7f2c171566532e22fb6"
         }
     }
 }

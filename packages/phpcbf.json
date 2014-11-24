@@ -1,9 +1,24 @@
 {
     "packages": {
         "toolphar\/phpcbf": {
-            "2.0.0RC3": {
+            "2.0.0-RC4": {
                 "name": "toolphar\/phpcbf",
-                "version": "2.0.0RC3",
+                "version": "2.0.0-RC4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpcbf"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/\/squizlabs\/PHP_CodeSniffer\/releases\/download\/2.0.0RC4\/phpcbf.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.0-RC3": {
+                "name": "toolphar\/phpcbf",
+                "version": "2.0.0-RC3",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "*"
@@ -16,9 +31,9 @@
                     "type": "file"
                 }
             },
-            "2.0.0RC2": {
+            "2.0.0-RC2": {
                 "name": "toolphar\/phpcbf",
-                "version": "2.0.0RC2",
+                "version": "2.0.0-RC2",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "*"
@@ -31,9 +46,9 @@
                     "type": "file"
                 }
             },
-            "2.0.0RC1": {
+            "2.0.0-RC1": {
                 "name": "toolphar\/phpcbf",
-                "version": "2.0.0RC1",
+                "version": "2.0.0-RC1",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "*"
@@ -46,9 +61,9 @@
                     "type": "file"
                 }
             },
-            "2.0.0a2": {
+            "2.0.0-alpha2": {
                 "name": "toolphar\/phpcbf",
-                "version": "2.0.0a2",
+                "version": "2.0.0-alpha2",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "*"
