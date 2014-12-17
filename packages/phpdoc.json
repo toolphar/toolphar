@@ -1,0 +1,201 @@
+{
+    "packages": {
+        "toolphar\/phpdoc": {
+            "v2.8.1": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.8.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.8.1\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.8.0": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.8.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.8.0\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.7.0": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.7.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.7.0\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.6.1": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.6.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.6.1\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.6.0": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.6.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.6.0\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.5.0": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.5.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.5.0\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.4.0": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.4.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.4.0\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.3.2": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.3.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.3.2\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.3.0": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.3.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.3.0\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.2.0": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.2.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.2.0\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.0.1": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.0.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.0.1\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "v2.0.0": {
+                "name": "toolphar\/phpdoc",
+                "version": "v2.0.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/v2.0.0\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            },
+            "2.0.0-beta7": {
+                "name": "toolphar\/phpdoc",
+                "version": "2.0.0-beta7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "*"
+                },
+                "extra": {
+                    "bin-name": "phpdoc"
+                },
+                "dist": {
+                    "url": "https:\/\/github.com\/phpDocumentor\/phpDocumentor2\/releases\/download\/2.0.0b7\/phpDocumentor.phar",
+                    "type": "file"
+                }
+            }
+        }
+    }
+}
