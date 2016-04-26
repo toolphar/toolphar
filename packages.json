@@ -4,33 +4,63 @@
             "sha1": "653680960b63efa86a39232709f84943382a39cf"
         },
         "packages\/pdepend.json": {
+            "sha1": "fe4d9f7fa1da56cbbebdaa8e9568841307332721"
+        },
+        "packages\/pdepend.jsonbehat.json": {
             "sha1": "00f7fe963ea096692f6c913624bdba2b7f58fad4"
         },
         "packages\/phpab.json": {
+            "sha1": "ebde712e271989f17af0bc21c199d2e965d83fa0"
+        },
+        "packages\/phpab.jsonbehat.json": {
             "sha1": "19ec7780d4a365b15506d1fef989109fc86631d0"
         },
         "packages\/phpcb.json": {
+            "sha1": "7773c1fc535b011725539d5b8c7ead070ca70e0d"
+        },
+        "packages\/phpcb.jsonbehat.json": {
             "sha1": "59752ffe9c7b72cc2972a160947f5997819ec984"
         },
         "packages\/phpcbf.json": {
+            "sha1": "b112e4d1d4857cffc28e85aff731f6fb0893d0dc"
+        },
+        "packages\/phpcbf.jsonbehat.json": {
             "sha1": "8781333f8e815a1ccf5856237975e400e13166a9"
         },
         "packages\/phpcpd.json": {
+            "sha1": "89c59a36a2b33a28f2263f26c938d969c57e0947"
+        },
+        "packages\/phpcpd.jsonbehat.json": {
             "sha1": "2bbae32447d77ff9d69a26b12a4dcb48b58e6c0a"
         },
         "packages\/phpcs.json": {
+            "sha1": "64ffd6cb894afd939c693204dc9f93ea8ca741d3"
+        },
+        "packages\/phpcs.jsonbehat.json": {
             "sha1": "ebe14bea2b3351aea24fc80d7d7deae7cc963ff5"
         },
         "packages\/phpdoc.json": {
+            "sha1": "323ebf0cab852571183ac1804478355e29cf9b15"
+        },
+        "packages\/phpdoc.jsonbehat.json": {
             "sha1": "b9511130f19c5759c93fdc28c7440a9386bb8c28"
         },
         "packages\/phploc.json": {
+            "sha1": "0ee6c6854e1a3ac3454acf6c0741511e83665ded"
+        },
+        "packages\/phploc.jsonbehat.json": {
             "sha1": "feaf8e9b49bfe2956800356fbfe37e79633a6fe9"
         },
         "packages\/phpmd.json": {
+            "sha1": "7cff646550768cb24c95b4e6456bf1bf6b9562cd"
+        },
+        "packages\/phpmd.jsonbehat.json": {
             "sha1": "f0d77e4c71aa72b30100327e54f03cb284c4ec2f"
         },
         "packages\/phpunit.json": {
+            "sha1": "38f19b81506894d19d2fb6730824439b02ece343"
+        },
+        "packages\/phpunit.jsonbehat.json": {
             "sha1": "739b35b7d071ca1c069454fe12bb94c791652a5a"
         }
     }

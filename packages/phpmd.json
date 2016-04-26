@@ -6,7 +6,7 @@
                 "version": "2.1.3",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"
@@ -21,7 +21,7 @@
                 "version": "2.1.2",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"
@@ -36,7 +36,7 @@
                 "version": "2.1.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"
@@ -51,7 +51,7 @@
                 "version": "2.1.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"
@@ -66,7 +66,7 @@
                 "version": "2.0.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"
@@ -81,7 +81,7 @@
                 "version": "1.1.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"
@@ -96,7 +96,7 @@
                 "version": "1.1.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"
@@ -111,7 +111,7 @@
                 "version": "1.0.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"
@@ -126,7 +126,7 @@
                 "version": "1.0.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phpmd"

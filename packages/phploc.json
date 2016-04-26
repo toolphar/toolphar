@@ -6,7 +6,7 @@
                 "version": "2.0.6",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -21,7 +21,7 @@
                 "version": "2.0.5",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -36,7 +36,7 @@
                 "version": "2.0.4",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -51,7 +51,7 @@
                 "version": "2.0.3",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -66,7 +66,7 @@
                 "version": "2.0.2",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -81,7 +81,7 @@
                 "version": "2.0.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -96,7 +96,7 @@
                 "version": "2.0.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -111,7 +111,7 @@
                 "version": "1.7.4",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -126,7 +126,7 @@
                 "version": "1.7.3",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -141,7 +141,7 @@
                 "version": "1.7.2",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -156,7 +156,7 @@
                 "version": "1.7.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"
@@ -171,7 +171,7 @@
                 "version": "1.7.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "phploc"

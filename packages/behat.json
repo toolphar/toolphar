@@ -6,7 +6,7 @@
                 "version": "v3.0.14",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -21,7 +21,7 @@
                 "version": "v3.0.13",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -36,7 +36,7 @@
                 "version": "v3.0.12",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -51,7 +51,7 @@
                 "version": "v3.0.11",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -66,7 +66,7 @@
                 "version": "v3.0.10",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -81,7 +81,7 @@
                 "version": "v3.0.9",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -96,7 +96,7 @@
                 "version": "v3.0.8",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -111,7 +111,7 @@
                 "version": "v3.0.7",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -126,7 +126,7 @@
                 "version": "v3.0.6",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -141,7 +141,7 @@
                 "version": "v3.0.5",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -156,7 +156,7 @@
                 "version": "v3.0.4",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -171,7 +171,7 @@
                 "version": "v3.0.3",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -186,7 +186,7 @@
                 "version": "v3.0.2",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -201,7 +201,7 @@
                 "version": "v3.0.1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -216,7 +216,7 @@
                 "version": "v3.0.0",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -231,7 +231,7 @@
                 "version": "v3.0.0-RC3",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -246,7 +246,7 @@
                 "version": "v3.0.0-RC2",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -261,7 +261,7 @@
                 "version": "v3.0.0-RC1",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
@@ -276,7 +276,7 @@
                 "version": "v3.0.0-beta8",
                 "type": "toolphar",
                 "require": {
-                    "hco\/phar-installer-plugin": "*"
+                    "hco\/phar-installer-plugin": "^0.1.3"
                 },
                 "extra": {
                     "bin-name": "behat"
