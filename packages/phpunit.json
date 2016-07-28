@@ -1,9 +1,9 @@
 {
     "packages": {
         "toolphar\/phpunit": {
-            "4.3.5": {
+            "5.4.8": {
                 "name": "toolphar\/phpunit",
-                "version": "4.3.5",
+                "version": "5.4.8",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "^0.1.3"
@@ -12,1027 +12,7 @@
                     "bin-name": "phpunit"
                 },
                 "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.5.phar",
-                    "type": "file"
-                }
-            },
-            "4.3.4": {
-                "name": "toolphar\/phpunit",
-                "version": "4.3.4",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.4.phar",
-                    "type": "file"
-                }
-            },
-            "4.3.3": {
-                "name": "toolphar\/phpunit",
-                "version": "4.3.3",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.3.phar",
-                    "type": "file"
-                }
-            },
-            "4.3.2": {
-                "name": "toolphar\/phpunit",
-                "version": "4.3.2",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.2.phar",
-                    "type": "file"
-                }
-            },
-            "4.3.1": {
-                "name": "toolphar\/phpunit",
-                "version": "4.3.1",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.1.phar",
-                    "type": "file"
-                }
-            },
-            "4.3.0": {
-                "name": "toolphar\/phpunit",
-                "version": "4.3.0",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.0.phar",
-                    "type": "file"
-                }
-            },
-            "4.2.6": {
-                "name": "toolphar\/phpunit",
-                "version": "4.2.6",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.6.phar",
-                    "type": "file"
-                }
-            },
-            "4.2.5": {
-                "name": "toolphar\/phpunit",
-                "version": "4.2.5",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.5.phar",
-                    "type": "file"
-                }
-            },
-            "4.2.4": {
-                "name": "toolphar\/phpunit",
-                "version": "4.2.4",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.4.phar",
-                    "type": "file"
-                }
-            },
-            "4.2.3": {
-                "name": "toolphar\/phpunit",
-                "version": "4.2.3",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.3.phar",
-                    "type": "file"
-                }
-            },
-            "4.2.2": {
-                "name": "toolphar\/phpunit",
-                "version": "4.2.2",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.2.phar",
-                    "type": "file"
-                }
-            },
-            "4.2.1": {
-                "name": "toolphar\/phpunit",
-                "version": "4.2.1",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.1.phar",
-                    "type": "file"
-                }
-            },
-            "4.2.0": {
-                "name": "toolphar\/phpunit",
-                "version": "4.2.0",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.0.phar",
-                    "type": "file"
-                }
-            },
-            "4.1.6": {
-                "name": "toolphar\/phpunit",
-                "version": "4.1.6",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.6.phar",
-                    "type": "file"
-                }
-            },
-            "4.1.5": {
-                "name": "toolphar\/phpunit",
-                "version": "4.1.5",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.5.phar",
-                    "type": "file"
-                }
-            },
-            "4.1.4": {
-                "name": "toolphar\/phpunit",
-                "version": "4.1.4",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.4.phar",
-                    "type": "file"
-                }
-            },
-            "4.1.3": {
-                "name": "toolphar\/phpunit",
-                "version": "4.1.3",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.3.phar",
-                    "type": "file"
-                }
-            },
-            "4.1.2": {
-                "name": "toolphar\/phpunit",
-                "version": "4.1.2",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.2.phar",
-                    "type": "file"
-                }
-            },
-            "4.1.1": {
-                "name": "toolphar\/phpunit",
-                "version": "4.1.1",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.1.phar",
-                    "type": "file"
-                }
-            },
-            "4.1.0": {
-                "name": "toolphar\/phpunit",
-                "version": "4.1.0",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.0.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.20": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.20",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.20.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.19": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.19",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.19.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.18": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.18",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.18.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.17": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.17",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.17.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.16": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.16",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.16.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.15": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.15",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.15.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.14": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.14",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.14.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.13": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.13",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.13.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.12": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.12",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.12.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.11": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.11",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.11.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.10": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.10",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.10.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.9": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.9",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.9.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.8": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.8",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.8.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.7": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.7",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.7.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.6": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.6",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.6.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.5": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.5",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.5.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.4": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.4",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.4.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.3": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.3",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.3.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.2": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.2",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.2.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.1": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.1",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.1.phar",
-                    "type": "file"
-                }
-            },
-            "4.0.0": {
-                "name": "toolphar\/phpunit",
-                "version": "4.0.0",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.0.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.38": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.38",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.38.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.37": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.37",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.37.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.36": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.36",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.36.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.35": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.35",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.35.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.34": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.34",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.34.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.33": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.33",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.33.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.32": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.32",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.32.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.31": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.31",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.31.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.30": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.30",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.30.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.29": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.29",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.29.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.28": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.28",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.28.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.27": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.27",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.27.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.26": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.26",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.26.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.25": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.25",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.25.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.24": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.24",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.24.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.23": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.23",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.23.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.22": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.22",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.22.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.21": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.21",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.21.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.20": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.20",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.20.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.19": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.19",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.19.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.18": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.18",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.18.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.17": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.17",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.17.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.16": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.16",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.16.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.15": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.15",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.15.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.14": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.14",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.14.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.13": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.13",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.13.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.12": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.12",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.12.phar",
-                    "type": "file"
-                }
-            },
-            "3.7.11": {
-                "name": "toolphar\/phpunit",
-                "version": "3.7.11",
-                "type": "toolphar",
-                "require": {
-                    "hco\/phar-installer-plugin": "^0.1.3"
-                },
-                "extra": {
-                    "bin-name": "phpunit"
-                },
-                "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.11.phar",
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.8.phar",
                     "type": "file"
                 }
             },
@@ -1051,9 +31,9 @@
                     "type": "file"
                 }
             },
-            "3.7.9": {
+            "3.7.11": {
                 "name": "toolphar\/phpunit",
-                "version": "3.7.9",
+                "version": "3.7.11",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "^0.1.3"
@@ -1062,13 +42,13 @@
                     "bin-name": "phpunit"
                 },
                 "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.9.phar",
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.11.phar",
                     "type": "file"
                 }
             },
-            "3.7.8": {
+            "3.7.12": {
                 "name": "toolphar\/phpunit",
-                "version": "3.7.8",
+                "version": "3.7.12",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "^0.1.3"
@@ -1077,13 +57,13 @@
                     "bin-name": "phpunit"
                 },
                 "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.8.phar",
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.12.phar",
                     "type": "file"
                 }
             },
-            "3.7.7": {
+            "3.7.13": {
                 "name": "toolphar\/phpunit",
-                "version": "3.7.7",
+                "version": "3.7.13",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "^0.1.3"
@@ -1092,13 +72,13 @@
                     "bin-name": "phpunit"
                 },
                 "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.7.phar",
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.13.phar",
                     "type": "file"
                 }
             },
-            "3.7.6": {
+            "3.7.14": {
                 "name": "toolphar\/phpunit",
-                "version": "3.7.6",
+                "version": "3.7.14",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "^0.1.3"
@@ -1107,13 +87,13 @@
                     "bin-name": "phpunit"
                 },
                 "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.6.phar",
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.14.phar",
                     "type": "file"
                 }
             },
-            "3.7.5": {
+            "3.7.15": {
                 "name": "toolphar\/phpunit",
-                "version": "3.7.5",
+                "version": "3.7.15",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "^0.1.3"
@@ -1122,7 +102,367 @@
                     "bin-name": "phpunit"
                 },
                 "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.5.phar",
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.15.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.16": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.16",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.16.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.17": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.17",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.17.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.18": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.18",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.18.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.19": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.19",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.19.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.20": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.20",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.20.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.21": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.21",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.21.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.22": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.22",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.22.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.23": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.23",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.23.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.24": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.24",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.24.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.25": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.25",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.25.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.26": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.26",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.26.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.27": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.27",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.27.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.28": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.28",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.28.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.29": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.29",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.29.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.3": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.3.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.30": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.30",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.30.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.31": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.31",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.31.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.32": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.32",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.32.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.33": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.33",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.33.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.34": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.34",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.34.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.35": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.35",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.35.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.36": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.36",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.36.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.37": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.37",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.37.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.38": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.38",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.38.phar",
                     "type": "file"
                 }
             },
@@ -1141,9 +481,9 @@
                     "type": "file"
                 }
             },
-            "3.7.3": {
+            "3.7.5": {
                 "name": "toolphar\/phpunit",
-                "version": "3.7.3",
+                "version": "3.7.5",
                 "type": "toolphar",
                 "require": {
                     "hco\/phar-installer-plugin": "^0.1.3"
@@ -1152,7 +492,2182 @@
                     "bin-name": "phpunit"
                 },
                 "dist": {
-                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.3.phar",
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.5.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.6": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.6.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.7": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.7.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.8": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.8",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.8.phar",
+                    "type": "file"
+                }
+            },
+            "3.7.9": {
+                "name": "toolphar\/phpunit",
+                "version": "3.7.9",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-3.7.9.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.10": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.10",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.10.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.11": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.11",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.11.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.12": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.12",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.12.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.13": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.13",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.13.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.14": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.14",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.14.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.15": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.15",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.15.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.16": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.16",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.16.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.17": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.17",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.17.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.18": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.18",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.18.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.19": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.19",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.19.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.2": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.2.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.20": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.20",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.20.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.3": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.3.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.4": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.4.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.5.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.6": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.6.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.7": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.7.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.8": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.8",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.8.phar",
+                    "type": "file"
+                }
+            },
+            "4.0.9": {
+                "name": "toolphar\/phpunit",
+                "version": "4.0.9",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.0.9.phar",
+                    "type": "file"
+                }
+            },
+            "4.1.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.1.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.1.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.1.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.1.2": {
+                "name": "toolphar\/phpunit",
+                "version": "4.1.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.2.phar",
+                    "type": "file"
+                }
+            },
+            "4.1.3": {
+                "name": "toolphar\/phpunit",
+                "version": "4.1.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.3.phar",
+                    "type": "file"
+                }
+            },
+            "4.1.4": {
+                "name": "toolphar\/phpunit",
+                "version": "4.1.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.4.phar",
+                    "type": "file"
+                }
+            },
+            "4.1.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.1.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.5.phar",
+                    "type": "file"
+                }
+            },
+            "4.1.6": {
+                "name": "toolphar\/phpunit",
+                "version": "4.1.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.1.6.phar",
+                    "type": "file"
+                }
+            },
+            "4.2.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.2.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.2.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.2.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.2.2": {
+                "name": "toolphar\/phpunit",
+                "version": "4.2.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.2.phar",
+                    "type": "file"
+                }
+            },
+            "4.2.3": {
+                "name": "toolphar\/phpunit",
+                "version": "4.2.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.3.phar",
+                    "type": "file"
+                }
+            },
+            "4.2.4": {
+                "name": "toolphar\/phpunit",
+                "version": "4.2.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.4.phar",
+                    "type": "file"
+                }
+            },
+            "4.2.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.2.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.5.phar",
+                    "type": "file"
+                }
+            },
+            "4.2.6": {
+                "name": "toolphar\/phpunit",
+                "version": "4.2.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.2.6.phar",
+                    "type": "file"
+                }
+            },
+            "4.3.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.3.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.3.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.3.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.3.2": {
+                "name": "toolphar\/phpunit",
+                "version": "4.3.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.2.phar",
+                    "type": "file"
+                }
+            },
+            "4.3.3": {
+                "name": "toolphar\/phpunit",
+                "version": "4.3.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.3.phar",
+                    "type": "file"
+                }
+            },
+            "4.3.4": {
+                "name": "toolphar\/phpunit",
+                "version": "4.3.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.4.phar",
+                    "type": "file"
+                }
+            },
+            "4.3.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.3.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.3.5.phar",
+                    "type": "file"
+                }
+            },
+            "4.4.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.4.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.4.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.4.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.4.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.4.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.4.2": {
+                "name": "toolphar\/phpunit",
+                "version": "4.4.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.4.2.phar",
+                    "type": "file"
+                }
+            },
+            "4.4.3": {
+                "name": "toolphar\/phpunit",
+                "version": "4.4.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.4.3.phar",
+                    "type": "file"
+                }
+            },
+            "4.4.4": {
+                "name": "toolphar\/phpunit",
+                "version": "4.4.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.4.4.phar",
+                    "type": "file"
+                }
+            },
+            "4.4.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.4.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.4.5.phar",
+                    "type": "file"
+                }
+            },
+            "4.5.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.5.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.5.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.5.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.5.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.5.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.10": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.10",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.10.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.2": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.2.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.3": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.3.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.4": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.4.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.5.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.6": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.6.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.7": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.7.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.8": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.8",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.8.phar",
+                    "type": "file"
+                }
+            },
+            "4.6.9": {
+                "name": "toolphar\/phpunit",
+                "version": "4.6.9",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.6.9.phar",
+                    "type": "file"
+                }
+            },
+            "4.7.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.7.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.7.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.7.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.7.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.7.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.7.2": {
+                "name": "toolphar\/phpunit",
+                "version": "4.7.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.7.2.phar",
+                    "type": "file"
+                }
+            },
+            "4.7.3": {
+                "name": "toolphar\/phpunit",
+                "version": "4.7.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.7.3.phar",
+                    "type": "file"
+                }
+            },
+            "4.7.4": {
+                "name": "toolphar\/phpunit",
+                "version": "4.7.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.7.4.phar",
+                    "type": "file"
+                }
+            },
+            "4.7.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.7.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.7.5.phar",
+                    "type": "file"
+                }
+            },
+            "4.7.6": {
+                "name": "toolphar\/phpunit",
+                "version": "4.7.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.7.6.phar",
+                    "type": "file"
+                }
+            },
+            "4.7.7": {
+                "name": "toolphar\/phpunit",
+                "version": "4.7.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.7.7.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.0": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.0.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.1": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.1.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.10": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.10",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.10.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.11": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.11",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.11.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.12": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.12",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.12.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.13": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.13",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.13.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.14": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.14",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.14.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.15": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.15",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.15.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.16": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.16",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.16.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.17": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.17",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.17.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.18": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.18",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.18.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.19": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.19",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.19.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.2": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.2.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.20": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.20",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.20.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.21": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.21",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.21.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.22": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.22",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.22.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.23": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.23",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.23.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.24": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.24",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.24.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.25": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.25",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.25.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.26": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.26",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.26.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.27": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.27",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.27.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.3": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.3.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.4": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.4.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.5": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.5.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.6": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.6.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.7": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.7.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.8": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.8",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.8.phar",
+                    "type": "file"
+                }
+            },
+            "4.8.9": {
+                "name": "toolphar\/phpunit",
+                "version": "4.8.9",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-4.8.9.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.0": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.0.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.10": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.10",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.10.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.2": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.2.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.3": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.3.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.4": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.4.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.5": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.5.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.6": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.6.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.7": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.7.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.8": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.8",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.8.phar",
+                    "type": "file"
+                }
+            },
+            "5.0.9": {
+                "name": "toolphar\/phpunit",
+                "version": "5.0.9",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.0.9.phar",
+                    "type": "file"
+                }
+            },
+            "5.1.0": {
+                "name": "toolphar\/phpunit",
+                "version": "5.1.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.1.0.phar",
+                    "type": "file"
+                }
+            },
+            "5.1.1": {
+                "name": "toolphar\/phpunit",
+                "version": "5.1.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.1.1.phar",
+                    "type": "file"
+                }
+            },
+            "5.1.2": {
+                "name": "toolphar\/phpunit",
+                "version": "5.1.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.1.2.phar",
+                    "type": "file"
+                }
+            },
+            "5.1.3": {
+                "name": "toolphar\/phpunit",
+                "version": "5.1.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.1.3.phar",
+                    "type": "file"
+                }
+            },
+            "5.1.4": {
+                "name": "toolphar\/phpunit",
+                "version": "5.1.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.1.4.phar",
+                    "type": "file"
+                }
+            },
+            "5.1.5": {
+                "name": "toolphar\/phpunit",
+                "version": "5.1.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.1.5.phar",
+                    "type": "file"
+                }
+            },
+            "5.1.6": {
+                "name": "toolphar\/phpunit",
+                "version": "5.1.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.1.6.phar",
+                    "type": "file"
+                }
+            },
+            "5.1.7": {
+                "name": "toolphar\/phpunit",
+                "version": "5.1.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.1.7.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.0": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.0.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.1": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.1.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.10": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.10",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.10.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.11": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.11",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.11.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.12": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.12",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.12.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.2": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.2.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.3": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.3.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.4": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.4.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.5": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.5.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.6": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.6.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.7": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.7.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.8": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.8",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.8.phar",
+                    "type": "file"
+                }
+            },
+            "5.2.9": {
+                "name": "toolphar\/phpunit",
+                "version": "5.2.9",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.2.9.phar",
+                    "type": "file"
+                }
+            },
+            "5.3.0": {
+                "name": "toolphar\/phpunit",
+                "version": "5.3.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.3.0.phar",
+                    "type": "file"
+                }
+            },
+            "5.3.1": {
+                "name": "toolphar\/phpunit",
+                "version": "5.3.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.3.1.phar",
+                    "type": "file"
+                }
+            },
+            "5.3.2": {
+                "name": "toolphar\/phpunit",
+                "version": "5.3.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.3.2.phar",
+                    "type": "file"
+                }
+            },
+            "5.3.3": {
+                "name": "toolphar\/phpunit",
+                "version": "5.3.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.3.3.phar",
+                    "type": "file"
+                }
+            },
+            "5.3.4": {
+                "name": "toolphar\/phpunit",
+                "version": "5.3.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.3.4.phar",
+                    "type": "file"
+                }
+            },
+            "5.3.5": {
+                "name": "toolphar\/phpunit",
+                "version": "5.3.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.3.5.phar",
+                    "type": "file"
+                }
+            },
+            "5.4.0": {
+                "name": "toolphar\/phpunit",
+                "version": "5.4.0",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.0.phar",
+                    "type": "file"
+                }
+            },
+            "5.4.1": {
+                "name": "toolphar\/phpunit",
+                "version": "5.4.1",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.1.phar",
+                    "type": "file"
+                }
+            },
+            "5.4.2": {
+                "name": "toolphar\/phpunit",
+                "version": "5.4.2",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.2.phar",
+                    "type": "file"
+                }
+            },
+            "5.4.3": {
+                "name": "toolphar\/phpunit",
+                "version": "5.4.3",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.3.phar",
+                    "type": "file"
+                }
+            },
+            "5.4.4": {
+                "name": "toolphar\/phpunit",
+                "version": "5.4.4",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.4.phar",
+                    "type": "file"
+                }
+            },
+            "5.4.5": {
+                "name": "toolphar\/phpunit",
+                "version": "5.4.5",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.5.phar",
+                    "type": "file"
+                }
+            },
+            "5.4.6": {
+                "name": "toolphar\/phpunit",
+                "version": "5.4.6",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.6.phar",
+                    "type": "file"
+                }
+            },
+            "5.4.7": {
+                "name": "toolphar\/phpunit",
+                "version": "5.4.7",
+                "type": "toolphar",
+                "require": {
+                    "hco\/phar-installer-plugin": "^0.1.3"
+                },
+                "extra": {
+                    "bin-name": "phpunit"
+                },
+                "dist": {
+                    "url": "https:\/\/phar.phpunit.de\/phpunit-5.4.7.phar",
                     "type": "file"
                 }
             }
