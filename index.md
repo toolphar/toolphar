@@ -18,7 +18,7 @@ See the following composer.json and what it does below.
     "repositories": [
         {
             "type": "composer",
-            "url": "http://toolphar.org/"
+            "url": "https://toolphar.org/"
         }
     ]
 }
